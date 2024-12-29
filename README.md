@@ -1,8 +1,11 @@
-# React + Vite
+# Projeto do Desafio React Base
+## Projeto com dois desafios de react básico.
+![image](https://github.com/user-attachments/assets/8ad9273d-0eb3-4e7d-b56a-59589932f904)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Tecnologias Utilizadas:
+- HTML5
+- CSS3
+- JavaScript (Utilizado a biblioteca React + Vite para a criação de componentes do projeto).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Aprendizado:
+Nesse projeto reforcei o aprendizado do conteúdo de componentes de função do React. Apliquei os estudos com Props para passar algumas propriedades que foram pedidas dos desafios.
